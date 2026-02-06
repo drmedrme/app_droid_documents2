@@ -11,8 +11,8 @@ import androidx.compose.ui.platform.LocalView
 import androidx.core.view.WindowCompat
 import com.documents.app.data.preferences.ThemeMode
 
-val Primary = Color(0xFF0D47A1)
-val PrimaryLight = Color(0xFF1565C0)
+val Primary = Color(0xFF2563EB)
+val PrimaryLight = Color(0xFF3B82F6)
 val Secondary = Color(0xFF5F6368)
 val Teal = Color(0xFF00897B)
 
